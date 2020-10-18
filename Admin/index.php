@@ -50,8 +50,8 @@ if(isset($_GET['type'])){
                                        <!-- <th>
                                        ID
                                        </th> -->
-                                       <th>Email</th>
-                                       <th>Phone Number</th>
+                                       <th>Email id</th>
+                                       <th>Phone number</th>
                                        <!-- <th>Status</th> -->
                                     </tr>
                                  </thead>
