@@ -42,11 +42,11 @@ session_start();
         <div class="collapse navbar-collapse mobileColour" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active"><a href="index.php" style="color: #fff;padding: 10px;" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="#about" style="color: #fff;padding: 10px;" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="#about" style="color: #fff;padding: 10px;" class="nav-link">About us</a></li>
                 <li class="nav-item"><a href="categories.php" style="color: #fff;padding: 10px;" class="nav-link">
                         Categories
                     </a></li>
-                <li class="nav-item"><a href="#contact" style="color: #fff;padding: 10px;" class="nav-link">Contact</a></li>
+                <li class="nav-item"><a href="#contact" style="color: #fff;padding: 10px;" class="nav-link">Contact us</a></li>
                 <?php
                 if ($_SESSION['STATUS'] != 'loggedin'){
                     echo  "<li class='nav-item'><a href='login.php' style='color: #fff;padding: 10px 18px;' class='nav-link'>Login</a></li>";
@@ -61,7 +61,7 @@ session_start();
 </div>";
                 }
                 ?>
-                <li class="nav-item cta cta-colored"><a href="cart.php" class="nav-link" style="color: #fff;padding: 10px;">Wishlist <span style="color: #fff;" class="icon-shopping_cart"></span></a></li>
+                <li class="nav-item cta cta-colored"><a href="cart.php" class="nav-link" style="color: #fff;padding: 10px;">My Wishlist<span style="color: #fff;" class="icon-shopping_cart"></span></a></li>
 
             </ul>
         </div>
