@@ -12,7 +12,7 @@
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">SimplyMad</h2>
                     <p>
-                       TEXT HERE
+                       TEXT HERE okay
                     </p>
 
                 </div>
@@ -20,7 +20,7 @@
 
             <div class="col-md-4">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Help</h2>
+                    <h2 class="ftco-heading-2">Need Help?</h2>
                     <div class="d-flex">
                         <ul class="list-unstyled mr-l-5 pr-l-3 mr-4">
                             <!-- <li><a href="#" class="py-2 d-block">Shipping Information</a></li> -->
@@ -30,7 +30,7 @@
                         </ul>
                         <ul class="list-unstyled">
                             <li><a href="#" class="py-2 d-block">FAQs</a></li>
-                            <li><a href="#" class="py-2 d-block">Contact us</a></li>
+                            <li><a href="#" class="py-2 d-block">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                     <div class="block-23 mb-3">
                         <ul>
                             <li><span class="icon icon-map-marker"></span><span class="text">
-									152 street, B road Jaipur
+									152 street, B road Jaipur, Rajasthan, India
 								</span></li>
                             <li><a href="#"><span class="icon icon-phone"></span><span class="text">
 									7597690537
