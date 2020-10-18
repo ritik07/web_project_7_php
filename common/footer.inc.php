@@ -12,7 +12,7 @@
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">SimplyMad</h2>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit
+                       TEXT HERE
                     </p>
 
                 </div>
@@ -30,7 +30,7 @@
                         </ul>
                         <ul class="list-unstyled">
                             <li><a href="#" class="py-2 d-block">FAQs</a></li>
-                            <li><a href="#" class="py-2 d-block">Contact</a></li>
+                            <li><a href="#" class="py-2 d-block">Contact us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
             <div class="col-md-12 text-center">
 
                 <p>
-                    Copyright &copy;
+                    Copyright 2020 &copy;
                     <script>
                         document.write(new Date().getFullYear());
                     </script> All rights reserved | This website is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="#" target="_blank">SimplyMad</a>
