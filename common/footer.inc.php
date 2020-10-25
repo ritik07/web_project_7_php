@@ -59,7 +59,7 @@
                     Copyright 2020 &copy;
                     <script>
                         document.write(new Date().getFullYear());
-                    </script> All rights reserved | This website is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="#" target="_blank">SimplyMad</a>
+                    </script> All rights reserved | This website is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="#" target="_blank">Roger</a>
                 </p>
             </div>
         </div>
