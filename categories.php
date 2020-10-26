@@ -48,6 +48,10 @@ else{
                                         <a href="products.php?id=<?php echo $row[$i]['id']?>" class="add-to-cart text-center py-2 mr-1"><span>View Details <i class="ion-ios-add ml-1"></i></span></a>
                                         <!-- <a href="#" class="buy-now text-center py-2">Buy now<span><i class="ion-ios-cart ml-1"></i></span></a> -->
                                     </p>
+                                    <p class="bottom-area d-flex px-3">
+                                        <a href="products.php?id=<?php echo $row[$i]['id']?>" class="add-to-cart text-center py-2 mr-1"><span>View Details <i class="ion-ios-add ml-1"></i></span></a>
+                                        <!-- <a href="#" class="buy-now text-center py-2">Buy now<span><i class="ion-ios-cart ml-1"></i></span></a> -->
+                                    </p>
                                 </div>
                             </div>
                         </div>
